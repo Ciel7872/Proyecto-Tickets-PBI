@@ -12,8 +12,8 @@ Este proyecto desarrolla un ecosistema de Business Intelligence para analizar el
 
 ##  Desafíos Técnicos y Soluciones (ETL) ⚙️
 * **Consolidación de Datos:** Se anexaron dinámicamente tablas de diferentes periodos anuales, asegurando la consistencia de tipos de datos.
-* **Integridad Referencial:** Implementación de lógica en Lenguaje M para la inyección de registros "comodín" (ID 99 - Online). Esto resolvió el problema de registros huérfanos en Sucursal ID , eliminando los valores "(En blanco)" en los reportes.
-* **Normalización:** Tratamiento de nulos y limpieza de strings para dimensiones de Sucursales y Clientes.
+* **Integridad Referencial:** Implementación de lógica en Lenguaje M como inyección de registros "comodín" (ID 99 - Online). Esto resolvió el problema de registros huérfanos en Sucursal ID , eliminando los valores "(En blanco)" en los reportes. Tambien para caracteres especiales en registros de Clientes.
+* **Normalización:** Tratamiento de nulos y limpieza de strings para dimensiones de Sucursales y Clientes. Separacion de columnas para valores monovalentes y atomicos. Uso de Calendario. Y generacion de ID.
 
 ##  Análisis Destacados 📊
 * **Análisis de Vendedores:** Ranking de performance y segmentación por sucursal.
