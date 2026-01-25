@@ -21,6 +21,7 @@ Este proyecto desarrolla un ecosistema de Business Intelligence para analizar el
 * **Venta por Temporalidad:** Análisis comparativo de tickets por día de la semana y mes.
 
 ## Vista del Proyecto  📸 
+![alt text](ModeloEstrella.png)
 ![alt text](Inicio.png)
 ![alt text](Personas.png)
 ![alt text](Ventas.png)
