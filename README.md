@@ -33,4 +33,4 @@ En este proyecto, utilicé herramientas de IA generativa para optimizar el ciclo
 * **Optimización:** Refactorización de consultas SQL para mejorar el rendimiento de la carga de datos.
 
 
-*Este proyecto demuestra habilidades en el ciclo completo de datos, desde la extracción y limpieza hasta la entrega de valor mediante dashboards estratégicos.*
+*En este proyecto se comprende el ciclo completo de datos, desde la extracción y limpieza hasta la entrega de valor mediante dashboards estratégicos.*
