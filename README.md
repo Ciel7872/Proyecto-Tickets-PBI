@@ -25,12 +25,25 @@ La creación de medidas avanzadas con DAX permitió profundizar en las siguiente
 * **Venta por Temporalidad:** Análisis comparativo del flujo de tickets por día de la semana, mes y año para detectar picos de demanda estacionales.
 
 ## 📸 Vista del Proyecto 
+### **Modelo de Datos**
 ![Modelo de Datos](ModeloEstrella.png)
+
 <br>
+<br>
+
+### **Dashboard Inicio**
 ![Dashboard Inicio](Inicio.png)
+
 <br>
+<br>
+
+### **Análisis de Personas (Vendedores y clientes)**
 ![Análisis de Personas/Vendedores](Personas.png)
+
 <br>
+<br>
+
+### **Análisis de Ventas**
 ![Análisis de Ventas](Ventas.png)
 
 ## 🤖 Uso de IA y Eficiencia 
